@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-graqhqlmicroservice-dev-222931-authRole",
+      "UnauthRoleArn": "arn:aws:iam::048612685511:role/amplify-graqhqlmicroservice-dev-222931-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::048612685511:role/amplify-graqhqlmicroservice-dev-222931-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-graqhqlmicroservice-dev-222931-deployment",
+      "UnauthRoleName": "amplify-graqhqlmicroservice-dev-222931-unauthRole",
+      "StackName": "amplify-graqhqlmicroservice-dev-222931",
+      "StackId": "arn:aws:cloudformation:us-east-1:048612685511:stack/amplify-graqhqlmicroservice-dev-222931/31251a20-5c7b-11eb-b0ac-0ecd7efaa235",
+      "AmplifyAppId": "d1hjza0942t93a"
+    }
+  }
+}
